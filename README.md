@@ -11,12 +11,12 @@ In order to work on the hands-on execise, a Jupyter notebook runtime environment
 
 ## Instruction to load the Jupyter notebook to Colab environment
 Log into http://colab.research.google.com/ using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
-The Jypyter notebook for this exercise is kept in Github URL [https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_strokev3.5.ipynb](https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_strokev3.5.ipynb)
+The Jypyter notebook for this exercise is kept in Github URL [https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_stroke.ipynb](https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_stroke.ipynb)
 Enter the above URL in the search field and it will display the exercise name 'lime_shap_strokevx.x.ipynb'. Click the notebook name which will download the notebook from GitHub and load it in your Colab. Please see the screenshot below for reference. 
 
-![image](https://user-images.githubusercontent.com/8220013/171600524-946021ef-c77c-43b7-a034-965b50f010d7.png)
+![image](https://user-images.githubusercontent.com/8220013/171688076-6234952c-e546-4e7b-a2c0-a69e1e26398c.png)
 
-You may receive a warning that the notebook is not authored by Google and downloading from Git can be a risk. Please go ahead and accept to continue.
+You may receive a warning that the notebook is not authored by Google and loading from GitHub can potentially access data in Google account. Please go ahead and click 'Run anyway' as this exercise does not use any data stored with Google account.
 
 
 ## Alternative Option - Using individual's location laptop/desktop (least preferred)
