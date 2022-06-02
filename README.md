@@ -1,7 +1,6 @@
 # DMTS Master Class for Explainable AI
 
-Welcome to the hands-on exercise for the DMTS Master Class on Explanable AI using LIME and SHAP frameworks. The hands-on exercise is in the form of Jupyter notebook (.ipynb file format). The python code for the exercise and the instructions to execute them are already in the provided Jupyter notebook. Paricipants are expected to read each of the instructions carefully and execute each of the steps in the given sequence. 
-
+Welcome to the hands-on exercise for the DMTS Master Class on Explanable AI using LIME and SHAP frameworks. The hands-on exercise is in the form of Jupyter notebook (.ipynb file format). The python code for the exercise and the instructions to execute them are already in the provided Jupyter notebook. Paricipants are expected to read the instructions for each step carefully and execute the steps in exactly same sequence from top to bottom. No code change or new coding is required.
 
 ## Environment for the exercise
 In order to work on the hands-on execise, a Jupyter notebook runtime environment is required. We recommend participants to use Google Colab for this exercise. Google Colab or “the Colaboratory” is a free cloud service hosted by Google proving a free Jupyter notebook environment for writing and executing python code. Colab requires no setup to use and all the python libraries required for the hands-on exercise are already preinstalled.
@@ -12,7 +11,7 @@ In order to work on the hands-on execise, a Jupyter notebook runtime environment
 
 ## Instruction to load the Jupyter notebook to Colab environment
 Log into http://colab.research.google.com/ using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
-The Jypyter notebook for this exercise is kept in Github URL https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_strokev3.4.ipynb
+The Jypyter notebook for this exercise is kept in Github URL [https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_strokev3.5.ipynb](https://github.com/bkasimani/dmts-mc/blob/main/lime_shap_strokev3.5.ipynb)
 Enter the above URL in the search field and it will display the exercise name 'lime_shap_strokevx.x.ipynb'. Click the notebook name which will download the notebook from GitHub and load it in your Colab. Please see the screenshot below for reference. 
 
 ![image](https://user-images.githubusercontent.com/8220013/171600524-946021ef-c77c-43b7-a034-965b50f010d7.png)
