@@ -4,13 +4,13 @@ Welcome to the hands-on exercise for the DMTS Master Class on Explanable AI usin
 
 ## Environment for the exercise
 In order to work on the hands-on execise, a Jupyter notebook runtime environment is required. We recommend participants to use Google Colab for this exercise. Google Colab or “the Colaboratory” is a free cloud service hosted by Google proving a free Jupyter notebook environment for writing and executing python code. Colab requires no setup to use and all the python libraries required for the hands-on exercise are already preinstalled.
-* In order to access Colab (https://colab.research.google.com), a valid Google Account is required.
+* In order to access [Google Colab](https://colab.research.google.com), a valid Google Account is required.
 * As per Google's documentation Colab works with most major browsers, and is most thoroughly tested with the latest versions of Chrome, Firefox and Safari. 
 * More details about Colab can be found at https://research.google.com/colaboratory/faq.html
 
 
 ## Instruction to load the Jupyter notebook to Colab environment
-Log into http://colab.research.google.com/ using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
+Log into [http://colab.research.google.com](http://colab.research.google.com) using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
 The Jypyter notebook for this exercise is kept in Github URL https://github.com/dmts-techtonic/masterclass-xai/blob/main/lime_shap_stroke.ipynb
 Enter the above URL in the search field and it will display the exercise name 'lime_shap_strokevx.x.ipynb'. Click the notebook name which will download the notebook from GitHub and load it in your Colab. Please see the screenshot below for reference. 
 
