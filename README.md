@@ -10,7 +10,7 @@ In order to work on the hands-on execise, a Jupyter notebook runtime environment
 
 
 ## Instruction to load the Jupyter notebook to Colab environment
-Log into [http://colab.research.google.com](http://colab.research.google.com) using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
+Log into [https://colab.research.google.com](https://colab.research.google.com) using your Google Account. In the overlay that lists the existing notebooks, please select GitHub option.
 The Jypyter notebook for this exercise is kept in Github URL https://github.com/dmts-techtonic/masterclass-xai/blob/main/lime_shap_stroke.ipynb
 Enter the above URL in the search field and it will display the exercise name 'lime_shap_strokevx.x.ipynb'. Click the notebook name which will download the notebook from GitHub and load it in your Colab. Please see the screenshot below for reference. 
 
